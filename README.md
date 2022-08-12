@@ -4,4 +4,4 @@
 Screenshots : <br><br>
 <img src="https://github.com/shikharbhardwaj3110/PhotoTub/blob/main/search1.PNG">
 <br><br>
-<img src="https://github.com/shikharbhardwaj3110/PhotoTub/blob/main/phonesearch.jpg" width="100">
+<img src="https://github.com/shikharbhardwaj3110/PhotoTub/blob/main/phonesearch.jpg">
