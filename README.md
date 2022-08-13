@@ -3,4 +3,7 @@
 <br>
 Screenshots : <br><br>
 <img src="https://github.com/shikharbhardwaj3110/PhotoTub/blob/main/search1.PNG">
-
+<br><br>
+<p align="center">
+<img src="https://github.com/shikharbhardwaj3110/PhotoTub/blob/main/phonesearch.jpg" width="300">
+</p>
