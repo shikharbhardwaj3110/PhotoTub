@@ -22,7 +22,7 @@ function App() {
   }
 
   const callEndpoint = async (query) => {
-    return axios.get(`https://api.unsplash.com/search/photos?query=${query}&client_id=${process.env.KEY}`)
+    return axios.get(`https://api.unsplash.com/search/photos?query=${query}&client_id=${process.env.UNSPLASH_KEY}`)
   }
 
   const bodyStyle = {
