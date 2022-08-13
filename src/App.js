@@ -8,7 +8,7 @@ import './App.css'
 function App() {
 
   console.log(process.env.TEST)
-
+  console.log(process.env.UNSPLASH_KEY)
   const [searchTitle, setsearchTitle] = useState('')
   const [imageResult , setimageResult] = useState([])
 
