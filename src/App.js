@@ -7,7 +7,7 @@ import './App.css'
 
 function App() {
 
-  console.log(process.env)
+  console.log(process.env.TEST)
 
   const [searchTitle, setsearchTitle] = useState('')
   const [imageResult , setimageResult] = useState([])
